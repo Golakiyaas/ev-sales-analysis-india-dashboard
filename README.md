@@ -2,8 +2,15 @@
 <img src="https://github.com/user-attachments/assets/9845910c-d199-40ff-b5c9-b6baa780525c" alt="Dashboard Thumbnail" width="500" height="350">
 
 ## 📊 Dashboard Link
-[**View the Live Power BI Dashboard here!**](https://app.powerbi.com/view?r=eyJrIjoiMTU0ZjhlYjUtMDhmOC00ZTk5LWJlOTktZjM3M2QxMWNiMGQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=7566ded2d4a4e771cfff)  
+[**View the Live Power BI Dashboard here!**]([https://app.powerbi.com/view?r=eyJrIjoiMTU0ZjhlYjUtMDhmOC00ZTk5LWJlOTktZjM3M2QxMWNiMGQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=7566ded2d4a4e771cfff](https://github.com/user-attachments/assets/3c56388d-3037-4645-8481-4a0b1ebe8da3))  
 Explore the interactive analysis and insights on the Indian Electric Vehicle (EV) market.
+
+---
+### 🎥 **Project Walkthrough Video**
+
+Watch the **Electric Vehicle Sales Analysis** project walkthrough for an in-depth explanation of the analysis and insights.
+
+<a href="https://github.com/user-attachments/assets/3c56388d-3037-4645-8481-4a0b1ebe8da3" target="_blank">**Watch the Video Here**</a>
 
 ---
 
